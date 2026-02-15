@@ -1,0 +1,15 @@
+/target
+/dist
+*.swp
+*.swo
+*~
+.DS_Store
+.idea/
+.vscode/
+*.log
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.*
+traces/
