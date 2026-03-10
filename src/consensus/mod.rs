@@ -103,3 +103,5 @@ impl ValidatorSet {
 }
 
 // add quorum evaluation tests
+
+// implement BFT view-change per RFC-0004
