@@ -111,3 +111,5 @@ impl ValidatorSet {
 // extract vote evaluation into method
 
 // gossip backpressure with adaptive fanout
+
+// connection-pool double-free on peer churn
