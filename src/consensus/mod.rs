@@ -113,3 +113,5 @@ impl ValidatorSet {
 // gossip backpressure with adaptive fanout
 
 // connection-pool double-free on peer churn
+
+// implement downtime tracking with rolling window
