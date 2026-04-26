@@ -115,3 +115,5 @@ impl ValidatorSet {
 // connection-pool double-free on peer churn
 
 // implement downtime tracking with rolling window
+
+// add validator jailing and unjail logic
