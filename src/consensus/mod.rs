@@ -117,3 +117,5 @@ impl ValidatorSet {
 // implement downtime tracking with rolling window
 
 // add validator jailing and unjail logic
+
+// implement tombstoning for repeat offenders
