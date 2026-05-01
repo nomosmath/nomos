@@ -119,3 +119,5 @@ impl ValidatorSet {
 // add validator jailing and unjail logic
 
 // implement tombstoning for repeat offenders
+
+// cooldown period check off-by-one
