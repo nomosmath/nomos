@@ -121,3 +121,5 @@ impl ValidatorSet {
 // implement tombstoning for repeat offenders
 
 // cooldown period check off-by-one
+
+// add slashing engine unit tests
