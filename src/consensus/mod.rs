@@ -125,3 +125,5 @@ impl ValidatorSet {
 // add slashing engine unit tests
 
 // bigint underflow guard on slash amount
+
+// extract slash params to config
