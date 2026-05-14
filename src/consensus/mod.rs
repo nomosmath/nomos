@@ -107,3 +107,5 @@ impl ValidatorSet {
 // implement BFT view-change per RFC-0004
 
 // off-by-one in commit-phase quorum count
+
+// extract vote evaluation into method
