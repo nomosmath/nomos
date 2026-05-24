@@ -109,3 +109,5 @@ impl ValidatorSet {
 // off-by-one in commit-phase quorum count
 
 // extract vote evaluation into method
+
+// gossip backpressure with adaptive fanout
