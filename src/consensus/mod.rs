@@ -131,3 +131,5 @@ impl ValidatorSet {
 // add slashing mechanism spec link
 
 // pin nightly toolchain to 2026-04-10
+
+// rollup-mode flag gates experimental code paths
