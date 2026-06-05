@@ -123,3 +123,5 @@ impl ValidatorSet {
 // cooldown period check off-by-one
 
 // add slashing engine unit tests
+
+// bigint underflow guard on slash amount
