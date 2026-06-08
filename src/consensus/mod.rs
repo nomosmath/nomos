@@ -127,3 +127,5 @@ impl ValidatorSet {
 // bigint underflow guard on slash amount
 
 // extract slash params to config
+
+// add slashing mechanism spec link
