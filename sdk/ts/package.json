@@ -1,0 +1,12 @@
+{
+  "name": "@nomos/sdk",
+  "version": "0.5.0",
+  "description": "TypeScript SDK for Nomos proof verification protocol",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "license": "MIT OR Apache-2.0"
+}
