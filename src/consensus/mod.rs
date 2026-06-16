@@ -129,3 +129,5 @@ impl ValidatorSet {
 // extract slash params to config
 
 // add slashing mechanism spec link
+
+// pin nightly toolchain to 2026-04-10
