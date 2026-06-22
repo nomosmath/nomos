@@ -135,3 +135,5 @@ impl ValidatorSet {
 // rollup-mode flag gates experimental code paths
 
 // add feature flag and prover instantiation tests
+
+// clarify WIP status in README
