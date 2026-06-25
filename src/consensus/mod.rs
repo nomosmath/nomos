@@ -137,3 +137,5 @@ impl ValidatorSet {
 // add feature flag and prover instantiation tests
 
 // clarify WIP status in README
+
+// extract commit pipeline into module
