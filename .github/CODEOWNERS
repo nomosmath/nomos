@@ -1,0 +1,5 @@
+* @elgonrpc
+/src/consensus/ @elgonrpc
+/src/zk/ @elgonrpc
+/spec/ @elgonrpc
+/.github/ @elgonrpc
