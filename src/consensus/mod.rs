@@ -139,3 +139,5 @@ impl ValidatorSet {
 // clarify WIP status in README
 
 // extract commit pipeline into module
+
+// roundtrip property test for tx encoding
