@@ -141,3 +141,5 @@ impl ValidatorSet {
 // extract commit pipeline into module
 
 // roundtrip property test for tx encoding
+
+// emit events on slash/jail/tombstone
