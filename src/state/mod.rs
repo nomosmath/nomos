@@ -60,3 +60,6 @@ impl Default for StateTrie {
         Self::new()
     }
 }
+
+// incremental root recomputation
+
