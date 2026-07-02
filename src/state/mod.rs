@@ -63,3 +63,6 @@ impl Default for StateTrie {
 
 // incremental root recomputation
 
+
+// property test: insert ordering invariant
+
