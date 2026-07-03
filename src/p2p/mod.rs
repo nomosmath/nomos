@@ -55,3 +55,6 @@ impl PeerSet {
         self.peers.iter().take(self.config.fanout).collect()
     }
 }
+
+// heartbeat extracted
+
