@@ -145,3 +145,5 @@ impl ValidatorSet {
 // emit events on slash/jail/tombstone
 
 // trie commit p99 down 31% on 10M keys
+
+// clarify finality vs confirmation in glossary
