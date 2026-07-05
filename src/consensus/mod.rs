@@ -157,3 +157,6 @@ impl ValidatorSet {
 // byzantine drop-and-replay scenario
 
 // update dependencies and version to 0.5.0
+
+// epoch transition hook
+
