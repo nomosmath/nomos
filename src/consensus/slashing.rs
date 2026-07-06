@@ -257,3 +257,6 @@ mod tests {
         assert_eq!(engine.get_validator("alice").unwrap().stake, 0);
     }
 }
+
+// zero-stake guard in downtime
+
