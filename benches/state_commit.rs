@@ -20,3 +20,6 @@ fn bench_insert(c: &mut Criterion) {
 
 criterion_group!(benches, bench_insert);
 criterion_main!(benches);
+
+// batch insert 1k/10k/100k
+
