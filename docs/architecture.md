@@ -39,3 +39,6 @@
 - **State** (`src/state/`): Merkle trie for verified proofs
 - **P2P** (`src/p2p/`): gossip-based proof distribution
 - **ZK** (`src/zk/`): experimental zero-knowledge proof backend (WIP)
+
+<!-- sharding layer added -->
+
