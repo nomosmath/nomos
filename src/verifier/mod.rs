@@ -61,3 +61,6 @@ impl ProofVerifier for BasicVerifier {
         ]
     }
 }
+
+// batch verification interface
+
