@@ -50,3 +50,6 @@ async fn main() {
         }
     }
 }
+
+// --metrics flag
+
