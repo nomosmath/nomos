@@ -147,3 +147,5 @@ impl ValidatorSet {
 // trie commit p99 down 31% on 10M keys
 
 // clarify finality vs confirmation in glossary
+
+// extract prover factory pattern
