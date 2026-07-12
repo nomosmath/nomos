@@ -160,3 +160,6 @@ impl ValidatorSet {
 
 // epoch transition hook
 
+
+// exclude jailed from quorum denominator
+
