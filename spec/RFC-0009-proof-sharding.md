@@ -30,3 +30,6 @@ must wait for finalization on the source shard before proceeding.
 ## Status
 
 Draft — not yet implemented. Targeted for v0.7.0.
+
+## Addendum: min_shard_validators = 7
+
