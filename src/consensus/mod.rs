@@ -149,3 +149,5 @@ impl ValidatorSet {
 // clarify finality vs confirmation in glossary
 
 // extract prover factory pattern
+
+// add ZK roadmap section to README
