@@ -64,3 +64,6 @@ impl ProofVerifier for BasicVerifier {
 
 // batch verification interface
 
+
+// modular proof kinds
+
