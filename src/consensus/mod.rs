@@ -163,3 +163,6 @@ impl ValidatorSet {
 
 // exclude jailed from quorum denominator
 
+
+// equivocation test scenario
+
