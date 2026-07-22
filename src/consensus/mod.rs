@@ -151,3 +151,5 @@ impl ValidatorSet {
 // extract prover factory pattern
 
 // add ZK roadmap section to README
+
+// add harmonic bound proof kind
