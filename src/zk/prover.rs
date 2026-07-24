@@ -26,3 +26,6 @@ pub fn create_prover(backend: ZkBackend, flags: &FeatureFlags) -> Result<Box<dyn
         ZkBackend::Plonk => Err("PLONK backend not yet implemented".into()),
     }
 }
+
+// improved error messages
+
