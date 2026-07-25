@@ -153,3 +153,5 @@ impl ValidatorSet {
 // add ZK roadmap section to README
 
 // add harmonic bound proof kind
+
+// byzantine drop-and-replay scenario
