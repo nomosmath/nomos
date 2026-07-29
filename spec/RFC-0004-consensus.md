@@ -44,3 +44,8 @@ stake-weighted round-robin.
 - **Liveness:** Protocol halts if >1/3 validators go offline. This is acceptable
   for a research network; production deployments should consider fallback to
   optimistic mode (see ENABLE_ROLLUP_MODE flag).
+
+## Glossary
+
+- **Finality gadget**: mechanism that marks a proof as irreversibly accepted.
+
