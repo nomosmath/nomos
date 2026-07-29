@@ -166,3 +166,6 @@ impl ValidatorSet {
 
 // equivocation test scenario
 
+
+// configurable batch size
+
