@@ -15,6 +15,8 @@
 
 [Website](https://nomosmath.xyz) · [Spec](spec/) · [Architecture](docs/architecture.md)
 
+**Contract:** `0x877d2f72E4Dc4770bDa62b65245649Dc679CEa02`
+
 </div>
 
 ---
