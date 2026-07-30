@@ -9,7 +9,7 @@ impl ProverBackend for Groth16Prover {
     }
 
     fn prove(&self, _witness: &[u8], _circuit: &CircuitArtifact) -> Result<Proof, String> {
-        Err("ZK proving is WIP — track progress at https://github.com/elgonrpc/nomos/issues".into())
+        Err("ZK proving is WIP — track progress at https://github.com/nomosmath/nomos/issues".into())
     }
 
     fn verify(&self, _proof: &Proof, _public_signals: &[String]) -> Result<bool, String> {
