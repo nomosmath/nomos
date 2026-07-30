@@ -1,5 +1,5 @@
-* @elgonrpc
-/src/consensus/ @elgonrpc
-/src/zk/ @elgonrpc
-/spec/ @elgonrpc
-/.github/ @elgonrpc
+* @nomosmath
+/src/consensus/ @nomosmath
+/src/zk/ @nomosmath
+/spec/ @nomosmath
+/.github/ @nomosmath
